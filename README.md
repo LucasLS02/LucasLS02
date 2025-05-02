@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">
+<p align="justify">
 Apaixonado por transformar ideias em soluções reais, atuo no desenvolvimento de 
 sistemas utilizando tecnologias como Python, JavaScript/TypeScript, Next.js, 
 Flask, FastAPI e Docker. Tenho experiência prática em projetos acadêmicos e pessoais que 
